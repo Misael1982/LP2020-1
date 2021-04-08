@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 
   int main() {
@@ -19,4 +19,4 @@
     }
     else
         printf("NAO FORMAM UM TRIANGULO!\n");
-}
+}*/

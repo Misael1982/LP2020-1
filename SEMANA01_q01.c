@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
   float vcompra;
@@ -24,4 +24,4 @@ int main() {
     printf("R$ %.2f", valordesc);
   }
   return 0;
-}
+}*/

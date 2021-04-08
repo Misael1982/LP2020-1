@@ -1,4 +1,4 @@
-#include <stdio.h>
+/*#include <stdio.h>
 
 int main() {
   int n1, n2;
@@ -26,4 +26,4 @@ int main() {
     printf ("%i %i %i %i %i %i", n2menor, n2, n2maior, n1menor, n1, n1maior);
 
   return 0;
-}
+}*/
